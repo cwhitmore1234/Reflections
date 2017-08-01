@@ -1,0 +1,28 @@
+Using Diff to Find Bugs
+
+fc and diff are ok, but I would rather use something with a nice UI
+good old vi
+
+Using History for Efficiency
+
+I hate refelecting.
+History should make it easier to find newly introduced bugs and recovery from
+disaster.
+
+Manual Commits
+
+Cons: Will forget to commit.  Breaks creative flow.
+Pros: Commits mosr useful down the road if ever needed.
+
+Using Git to View History
+
+Use git log to identify what you want to diff.
+Use git diff commit1id commit2id to start the diff.
+
+Confidence from Version Control
+
+It so easy to go back that I might as well go ahead and break everything!
+
+How Do You Want To Use Git
+
+My Job.
