@@ -25,4 +25,4 @@ It so easy to go back that I might as well go ahead and break everything!
 
 How Do You Want To Use Git
 
-My Job.
+My job.

@@ -1,3 +1,7 @@
 Initalizing a Repository
 
 Git directory and files are created.
+
+Staging Area
+
+Staging area holds files that you want to commit together.  Working directory hold everything (even stuff not in repository.) Repository holds everything being tracked by git.  Value of staging is you commit exactly what you want.
