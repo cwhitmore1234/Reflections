@@ -1,0 +1,3 @@
+Initalizing a Repository
+
+Git directory and files are created.
